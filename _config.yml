@@ -1,4 +1,4 @@
-url    : "https://intellify-cloud.github.io/ev-up/"
+url    : "https://intellify-cloud.github.io/ev-up"
 baseurl: ""
 
 title      : evo Up! – Bond Origination and Home Loan Experts
@@ -21,6 +21,6 @@ webserver_headers:
     - GET, OPTIONS, HEAD
 
 logo:
-  path: /assets/logo.png
+  path: {{ site.url }}/assets/logo.png
 
 exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
