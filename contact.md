@@ -1,6 +1,6 @@
 ---
 layout: page
-title: evo Up!
+title: evo Up
 background: grey
 ---
 <div class="col-lg-12 text-center">
