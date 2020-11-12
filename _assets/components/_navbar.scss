@@ -45,14 +45,14 @@
 }
 @media(min-width:992px) {
   #mainNav {
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
     // background-color: #ffffff;
-    // // opacity: 0.6;
+    // opacity: 0.6;
     background-color: transparent;
     .navbar-brand {
       font-size: 2em;

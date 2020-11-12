@@ -14,7 +14,7 @@ background: grey
 		<p>Tel: <a href="tel:+27217127943"> 021 712 7943</a></p>
 		<p>Fax: 0865 117 076</p>
 		<p>Cell: <a href="tel:+27833259537">083 325 9537</a></p>
-		<p>E-mail: <a href="mailto:info@evo-up.co.za?subject=Mail from our Website">info@evo-up.co.za</a></p>
+		<p>E-mail: <a href="mailto:claudia.holtzhauzen@evogroup.co.za?subject=Mail from our Website">claudia.holtzhauzen@evogroup.co.za</a></p>
     </div>
 
     <div class="col-md">
