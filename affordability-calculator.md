@@ -10,4 +10,4 @@ background: white
         title="Affordability Calculator"></iframe>
 </div>
 
-<br>
+{% include team.html %}
