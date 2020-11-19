@@ -15,15 +15,20 @@
     <div class="row">
       <div class="col-lg-1 text-center"></div>
       <div class="col-lg-10 text-left">
-
-        <ul>
+        <div class="container textblock-heading">
           {% for textblock in site.data.sitetext.textblock.list %}
-          <li class="textblock-heading">
-            <h6>{{ textblock.title }}</h6>
-          </li>
+          <div class="row">
+              {% if textblock.image %}
+              <div class="textblock-image col-1 p-1 text-center">
+                <i class="fas {{textblock.image}} fa-2x"></i>
+              </div>
+              {% endif %}
+              <div class="textblock-title col align-items-center">
+                {{ textblock.title }}
+              </div>
+          </div>
           {% endfor %}
-        </ul>
-        
+        </div>
         {% if site.data.sitetext.textblock.footer %}<div class="text-muted text-center w-100">
           {{ site.data.sitetext.textblock.footer | markdownify }}</div>{% endif %}
       </div>
