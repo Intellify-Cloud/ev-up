@@ -117,13 +117,7 @@ about:
     Evo Up is dedicated to operational excellence from a service level and optimal client outcome perspective. We seek to procure the best interest rates for our clients within an impressive turnaround time. Our team have more than 50 years of combined experience within the financial services industry and service more than 1000 clients. <br>
     
     <br>
-    We are proud to be associated with Evo, who is a part of the ooba Group. Our services include; <br><br>
-      ⦿ Pre-Qualification of prospective property buyers.<br>
-      ⦿ Bond application preparation for clients. Our expert insight into how the Banks credit rate prospective applicants will result in improved approval rates for clients.<br>
-      ⦿ Negotiating the best possible rates for clients with Banks.<br>
-      ⦿ Daily communication and updates on the status of applications with Banks.<br>
-      ⦿ Liaising with transfer and bond registration attorneys to ensure expedient transfer.<br>
-      ⦿ Structural and other insurance implementation."
+    We are proud to be associated with Evo, who is a part of the ooba Group."
     
 clients:
     title: Bank Partners
@@ -160,7 +154,7 @@ team:
     # text: "Lorem ipsum dolor sit amet consectetur."
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
-    contact: 021 553 5508
+    contact: 
     people:
       - name: "Michelle Mostert"
         role: "Head of Homeloans"
