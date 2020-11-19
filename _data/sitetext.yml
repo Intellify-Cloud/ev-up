@@ -59,6 +59,7 @@ textblock:
     list:
       - title: "We help you complete one application, which we submit to all the banks."
       - title: "We apply to the banks including your own to get quotes."
+        image: assets/img/timeline/1.jpg
       - title: "You can then compare the various quotes."
       - title: "We will negotiate the rate & terms on your behalf."
       - title: "We can assist you in securing a zero deposit bond if required."

@@ -15,6 +15,7 @@
     <div class="row">
       <div class="col-lg-1 text-center"></div>
       <div class="col-lg-10 text-left">
+
         <ul>
           {% for textblock in site.data.sitetext.textblock.list %}
           <li class="textblock-heading">
@@ -22,6 +23,7 @@
           </li>
           {% endfor %}
         </ul>
+        
         {% if site.data.sitetext.textblock.footer %}<div class="text-muted text-center w-100">
           {{ site.data.sitetext.textblock.footer | markdownify }}</div>{% endif %}
       </div>
