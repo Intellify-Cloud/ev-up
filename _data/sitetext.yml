@@ -58,11 +58,15 @@ textblock:
     section: textblock
     list:
       - title: "We help you complete one application, which we submit to all the banks."
+        image: "fa-university"
       - title: "We apply to the banks including your own to get quotes."
-        image: assets/img/timeline/1.jpg
+        image: "fa-file-invoice-dollar"
       - title: "You can then compare the various quotes."
+        image: "fa-balance-scale"
       - title: "We will negotiate the rate & terms on your behalf."
+        image: "fa-comments-dollar"
       - title: "We can assist you in securing a zero deposit bond if required."
+        image: "fa-user-shield"
 
 portfolio:
     title: "Other Services"
