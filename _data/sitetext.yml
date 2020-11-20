@@ -4,12 +4,7 @@ header:
     branches:
       - name: Northern Suburbs (WC)
         link: "/boland-cape-winelands"
-      - name: Boland and Winelands (WC)
-        link: "/boland-cape-winelands"
-      - name: Pretoria (GP)
-        link: "/boland-cape-winelands"
-      - name: Southern Suburbs & Atlantic Seaboard (WC)
-        link: "/boland-cape-winelands"
+
 
 services:
     title: "Services We Offer"
@@ -74,41 +69,6 @@ portfolio:
     section: portfolio
     closebutton: "Close"
     
-
-timeline:
-    title: "Steps in the Buying Process" 
-    text: "This is a quick breakdown of the home buying process"
-    section: timeline
-    events:
-      - title: "Determine what you can afford"
-        year: "Step 1"
-        desc: "Whether you're looking to buy or ready to put in an offer, we recommend you [get prequalified](https://www.ooba.co.za/home-loan/prequalify/). Do it yourself with our online Bond Indicator tool or get expertly verified by an expert before submitting your offer."
-        image: assets/img/timeline/1.jpg
-        alt: 
-      - title: "Check your credit record"
-        year: "Step 2"
-        desc: "As far as your bank is concerned, your credit score is a big number above your head that tells them how much of a risk you are. Your credit score indicates to your bank whether your past debt repayment behaviour will make you a good risk or not, we recommend [Clearscore](https://www.clearscore.co.za)."
-        image: assets/img/timeline/2.jpg
-        alt: 
-      - title: "Find your ideal home"
-        year: "Step 3"
-        desc: "Find out where you want to live, whether it’s important to be close to a school, medical facility, supermarket and shops, and other useful amenities. The desired size of the home and whether a garden is a necessity. Whether you want to live in a gated community. Whether it’s important to be in a quiet neighbourhood."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Sign a Offer to Purchase"
-        year: "Step 4"
-        desc: "Once you’ve found your dream home, knowing how much you can afford, you’re ready to sign an offer to purchase. This is an agreement between you and the seller that stipulates the terms and conditions for the sale of the property."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        # you can enforce the aligment
-        align: right
-      - title: "Get the best bond"
-        year: "Step 5"
-        desc: "We apply with all the banks, including your own, to provide you with comparative homeloan rates. You then decide what bank you want to proceed with from the  bank quotes. **We Help Every Step of the Way!**"
-        image: assets/img/timeline/5.jpg
-        alt: image alt text
-    end: "Make Us <br> Part of <br> Your Story!"
-
 about:
     title: "About Us"
     text2: "Evo Up is a bond origination and insurance procurement company servicing the entirety of South Africa. We have origination channels with all the major Banks and access to a network of professional Financial Advisors. Our team consists of experienced business professionals with skills ranging from expert bond origination, financial advisory and project implementation. Our services are underpinned by specialist digital systems and process management tools. <br>
