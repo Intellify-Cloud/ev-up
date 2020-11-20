@@ -4,7 +4,7 @@ title: evo Up
 background: grey
 ---
 <div class="col-lg-12 text-center">
-	<h1 class="section-heading text-uppercase">evo Up!</h1>
+	<h1 class="section-heading text-uppercase">Contact evo Up!</h1>
 </div>
 
 <div class="container contact-us">
