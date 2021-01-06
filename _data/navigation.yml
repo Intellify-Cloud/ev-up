@@ -1,10 +1,10 @@
 nav:
-  - title: "Services"
-    section: services
-
   - title: "Why evo Up"
     section: textblock
 
+  - title: "Services"
+    section: services
+    
   - title: "Team"
     section: team
 
