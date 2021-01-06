@@ -7,15 +7,14 @@ background: grey
 	<h1 class="section-heading text-uppercase">Contact evo Up!</h1>
 </div>
 
-<br>
-
 <div class="container contact-us">
   <div class="row">
 
   <div class="col-md">
-		<p>Tel: <a href="tel:+27210232228"> 021 023 2228</a></p>
+		<p>Tel: <a href="tel:+27217127943"> 021 712 7943</a></p>
+		<p>Fax: 0865 117 076</p>
 		<p>Cell: <a href="tel:+27833259537">083 325 9537</a></p>
-		<p>E-mail: <a href="mailto:evoup@evogroup.co.za?subject=Mail from our Website">evoup@evogroup.co.za</a></p>
+		<p>E-mail: <a href="mailto:claudia.holtzhauzen@evogroup.co.za?subject=Mail from our Website">claudia.holtzhauzen@evogroup.co.za</a></p>
     </div>
 
     <div class="col-md">
