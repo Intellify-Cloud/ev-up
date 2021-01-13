@@ -13,8 +13,8 @@ background: grey
   <div class="row">
 
   <div class="col-md">
-		<p>Tel: <a href="tel:+27217127943"> 021 023 2228</a></p>
-		<p>Cell: <a href="tel:+27833259537">083 325 9537</a></p>
+		<p>Tel: <a href="tel:+27210232228"> 021 023 2228</a></p>
+		<p>Cell: <a href="tel:+27844336333">084 433 6333</a></p>
 		<p>E-mail: <a href="mailto:evoup@evogroup.co.za?subject=Mail from our Website">evoup@evogroup.co.za</a></p>
     </div>
 
