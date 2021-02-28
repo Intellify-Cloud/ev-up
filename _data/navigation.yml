@@ -16,3 +16,6 @@ nav:
 
   - title: "Contact"
     url: /contact
+
+  - title: "Blog"
+    section: articles

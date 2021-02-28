@@ -27,6 +27,11 @@ services:
         desc: "I’m searching property portals and visiting show houses"
         icon: fas fa-search
 
+articles:
+    title: "Articles"
+    text: "Below is a list of our latest blog posts that help you keep up with the latest news in homeloans, interest rates and the South African property market."
+    section: articles
+
 calculators:
     title: "Home Loan Calculators"
     text: "Use our Home loan Calculators to work out the size of home loan you are likely to qualify for and what your bond repayments will be."
