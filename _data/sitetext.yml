@@ -50,12 +50,30 @@ calculators:
           url: /bond-calculator
           text: "Calculate"
       - title: "Transfer Cost Calculator"
-        desc: "Calculate your monthly bond repayments."
+        desc: "Calculate your registration and transfer costs."
         icon: fas fa-calculator   
         link:
           url: /transfer-cost-calculator
           text: "Calculate"
 
+
+more-calculators:
+    title: "More Calculators"
+    text: ""
+    section: more-calculators
+    list:
+      - title: "Deposit Savings Calculator"
+        desc: "Calculate how much you need to save for your deposit."
+        icon: fas fa-calculator   
+        link:
+          url: /deposit-savings-calculator
+          text: "Calculate"
+      - title: "Amortisation Calculator"
+        desc: "Calculate how your repayment is structured."
+        icon: fas fa-calculator   
+        link:
+          url: /amortisation-calculator
+          text: "Calculate"
 
 textblock:
     title: "Why evo Up"
