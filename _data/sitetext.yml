@@ -49,6 +49,12 @@ calculators:
         link:
           url: /bond-calculator
           text: "Calculate"
+      - title: "Transfer Cost Calculator"
+        desc: "Calculate your monthly bond repayments."
+        icon: fas fa-calculator   
+        link:
+          url: /transfer-cost-calculator
+          text: "Calculate"
 
 
 textblock:
