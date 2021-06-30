@@ -23,3 +23,11 @@ logo:
   path: /assets/logo.png
 
 exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
+
+group: evo Group
+
+company: evo Up
+
+url: www.evoup.co.za
+
+address: Unit 01, We Got Building, C/O Otto Du Plessis Drive & 6th Avenue, Melkbosstrand, 7441
